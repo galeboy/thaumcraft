@@ -590,33 +590,33 @@ focus.upgrade.architect.text=此次升级使核心有区域控制效果。选择
 #
 # Specific Focus Upgrades
 focus.upgrade.chainlightning.name=连锁闪电
-focus.upgrade.chainlightning.text=升级后使用法杖的速度会降低，但伤害增加还可以连锁到另外两个目标。
+focus.upgrade.chainlightning.text=此项升级将使震击核心的攻击速度降低，但伤害得到增加且闪电可以连锁到额外的两个目标。
 focus.upgrade.earthshock.name=电波震荡
-focus.upgrade.earthshock.text=现在变成一个电球，不再是一道闪电。攻击时会在地面照成范围性的电流，产生电流时请离开电流范围，否则会有危险。
+focus.upgrade.earthshock.text=此项升级将使震击核心投掷出一个电球而非射出一道闪电。电球会在攻击敌人的同时在地面造成范围性的电流，并对电流范围内的任何生物造成持续伤害，请注意远离带电区域，否则可能会有危险。
 focus.upgrade.fireball.name=火球
-focus.upgrade.fireball.text=此项升级可以将火焰核心原本的散射火焰聚集为呈束喷射而出的烈焰，熊熊燃烧的业火能穿透并引燃一切不幸成为目标的生物。
+focus.upgrade.fireball.text=此项升级将使火焰核心投掷出一个爆炸性的火球，若已升级炼金之焰那么火球还会在接触到目标或地面后形成一片火焰区域，引燃区域内的任何生物造成持续伤害。
 focus.upgrade.firebeam.name=火柱
-focus.upgrade.firebeam.text=升级后火能量不再是范围性的火焰而是变成更加精准的连续火焰，它会燃烧到的物体给敌人造成巨大的伤害。
+focus.upgrade.firebeam.text=此项升级将使火焰核心原本的散射火焰聚集为呈束喷射而出的烈焰，熊熊燃烧的业火能穿透并引燃一切不幸成为目标的生物。
 focus.upgrade.batbombs.name=爆炎魔蝠
-focus.upgrade.batbombs.text=这次升级将使召唤火蝙蝠更加容易，当他们接触目标时爆炸会比平时强很多。
+focus.upgrade.batbombs.text=此项升级将使召唤九狱焱蝠更加容易，它们在接触目标后会立刻爆炸，并且爆炸伤害会远胜此前。
 focus.upgrade.devilbats.name=恶魔之蝠
-focus.upgrade.devilbats.text=此项升级将使召唤九狱焱蝠更加容易，它们在接触目标后会立刻爆炸，并且爆炸伤害会远胜此前。
+focus.upgrade.devilbats.text=此项升级将使九狱焱蝠的体型增大，身体更加强壮并且更加恶毒，它们不再会自爆，而是对目标持续攻击，直到拼个你死我活。
 focus.upgrade.vampirebats.name=嗜血魔蝠
-focus.upgrade.vampirebats.text=看来你已经发现九狱的真正秘密,此升级会将召唤的蝙蝠变成吸血蝙蝠,它们能吸血让自己存活率更高,同时会把所吸取的血量分给召唤者(对，没错，就是你).
+focus.upgrade.vampirebats.text=看来你已经发现九狱的真正秘密,此项升级将使召唤的蝙蝠变成嗜血魔蝠,它们能吸血来让自己存活率更高,同时还会把所吸取的血量分给召唤者(对，没错，就是你).
 focus.upgrade.scattershot.name=溅射
-focus.upgrade.scattershot.text=这个升级会把原本的冰球变成很多冰片。虽然冰片伤害较小，但集中一起射向单个目标可造成重大伤害。
+focus.upgrade.scattershot.text=此项升级将使原本的冰球变成很多冰片。虽然冰片伤害较小，但当集中在一起射向单个目标时可造成极大伤害。
 focus.upgrade.iceboulder.name=冰岩
-focus.upgrade.iceboulder.text=这个升级会将冰球变得更加大,冰球具有跳跃反弹，使其熟练掌握可致命。
+focus.upgrade.iceboulder.text=此项升级将使冰球变得更巨大,冰球能够跳跃并在碰到平面时反弹，若熟练掌握这一特性将能够对目标造成致命的伤害。
 focus.upgrade.alchemistsfire.name=炼金之焰
-focus.upgrade.alchemistsfire.text=这增加了核心火元素的力量。攻击任何目标时会点燃,升级会使燃烧时间更长。
+focus.upgrade.alchemistsfire.text=此项升级强化了火焰核心中火系魔力的力量。这使得火焰核心攻击时目标会被点燃,升级会使燃烧时间增加。
 focus.upgrade.alchemistsfrost.name=炼金之霜
-focus.upgrade.alchemistsfrost.text=增加了核心元素的冷冻效果,当目标或损害生物被攻击到时会有冷却和减缓效果,升级会使时间更长。
+focus.upgrade.alchemistsfrost.text=此项升级强化了寒霜核心的冷冻效果,当目标被寒霜核心攻击时会有减缓效果,升级会使减速时间增加。
 focus.upgrade.nightshade.name=夜刃
-focus.upgrade.nightshade.text=具有诅咒效果,被攻击的目标会虚弱,这次升级后使用核心攻击一定范围的目标会负面状态。
-focus.upgrade.silktouch.name=精准采集
-focus.upgrade.silktouch.text=升级后采集时将更加精准。可直接采集方块,不破坏他原有的外貌。
+focus.upgrade.nightshade.text=此项升级将使岩精之诅咒核心的效果更加强大,被攻击的目标会立刻同时陷入中毒，虚弱，缓慢的异常状态。
+focus.upgrade.silktouch.name=丝绸之触
+focus.upgrade.silktouch.text=此项升级将使核心具有和附魔精准采集的工具相同的功能，被挖掘的方块会掉落它们的本体而不是应该掉落的物品。
 focus.upgrade.seeker.name=追踪
-focus.upgrade.seeker.text=这次升级使核心发出的能量球自动寻找最近的目标。他们的能量将更加集中这意味着击中目标时会有不寻常的爆炸。
+focus.upgrade.seeker.text=此项升级将使元始核心发射的元始能量球能够自动追踪距离最近的目标，这将让使用元始核心更加趋于稳定而非一场冒险，同时也意味着你能够用它来制造一次非比寻常的大爆炸。
 #
 # GUI
 golemblurb.0.text=吾主,您希望吾为您在此处保管何物呢?
@@ -1152,7 +1152,6 @@ tc.research_text.ENCHANT=新附魔技术
 tc.research_page.ENCHANT.1=神秘使懂得许多独特的附魔技术.<BR>§n潜能 (仅用于法杖核心) §r<BR>该附魔能够提升法杖核心可造成的伤害以及作用范围,但会略微增加魔力消耗.<BR>§n朴素(仅用于法杖核心)§r<BR>进行该附魔后的法杖核心更加节约魔力.<BR>§n瑰宝(仅用于法杖核心)§r<BR>类似时运附魔的效果,增加采集物品的产量.
 tc.research_page.ENCHANT.2=§n急迫§r<BR>进行该附魔的鞋子能够让穿戴者在地上行走时健步如飞,附魔等级越高,增幅速度越多.<BR>§n修复§r<BR>该附魔能够从灵气中吸取魔力来缓慢地修复物品耐久,附魔等级越高,修复速度越快.这种附魔只能对部分神秘物品生效.
 #
-tc.research_name.ELEMENTALAXE=奔流斧
 tc.research_text.ELEMENTALAXE=木材的河流
 tc.research_page.ELEMENTALAXE.1=将水之碎片与神秘锭制作的斧融合,你打造出一柄拥有流水特性的魔斧.<BR>这把斧头除了对木材和原木使用外,与普通斧头相比无甚特殊之处.当用它来采伐木头的时候,它会首先将与这个方块相连最远的方块采掘并吸收过来.<BR>因此你可以用这柄斧头砍掉整颗树,即使你敲击的是树干最低端的位置.
 tc.research_page.ELEMENTALAXE.2=如此砍下的原木都会自动地流向你.<BR>而按住右键时,附近所有的可拾取物品,包括但不限于你砍伐的木头,都会自动流向你.<BR>当你按住潜行键则可以抑制其特效,将其作为普通斧头使用,
